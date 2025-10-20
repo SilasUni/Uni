@@ -1,5 +1,5 @@
 package Main.java;
 
-public class Java {
+public class Silas{
 
 }
